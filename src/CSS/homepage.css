@@ -134,6 +134,15 @@
     font-weight: 800;
 }  
 
+.infosection{
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
 @media(max-width: 1200px){
     .middle_section_homepage{
         display: flex;

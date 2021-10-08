@@ -171,6 +171,12 @@ const HomePage = () => {
                     </div>
                     </div>
             </div>
+            <div className="infosection">
+                <h1>Ro = Equivalent resistance</h1>
+                <h1>Xo = Equivalent reactance</h1>
+                <h1>Rc = Equivalent resistance referred to the secondary side </h1>
+                <h1>Xc = Equivalent reactance referred to the secondary side</h1>
+            </div>
         </div>
         </>
     );
