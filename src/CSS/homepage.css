@@ -182,3 +182,14 @@
         width: 80%;
     }
 }
+
+@media (max-width:1000px){
+    .infosection{
+        font-size: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 1rem;
+    }
+}
